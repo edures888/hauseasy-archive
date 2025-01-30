@@ -8,5 +8,7 @@ After attempting to grow the business by connecting buyers and sellers, we took 
 
 ### Tech Stack
 Frontend: Next.js TailwindCSS
+
 Backend: Express.js, MongoDB
+
 Additionals: Auth0 SDK, Google Maps Services, SendGrid Mailing, Cloudinary Image Storage
